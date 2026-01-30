@@ -1,0 +1,84 @@
+{
+    "prompts": [
+        {
+            "text": "Quelles sont les trois choses pour lesquelles vous êtes reconnaissant aujourd'hui ?",
+            "category": "gratitude"
+        },
+        {
+            "text": "Décrivez un moment de votre journée qui vous a apporté de la joie.",
+            "category": "gratitude"
+        },
+        {
+            "text": "Quelle personne dans votre vie mérite votre gratitude et pourquoi ?",
+            "category": "gratitude"
+        },
+        {
+            "text": "Quel défi récent vous a permis de grandir en tant que personne ?",
+            "category": "growth"
+        },
+        {
+            "text": "Quelle compétence aimeriez-vous développer et pourquoi ?",
+            "category": "growth"
+        },
+        {
+            "text": "Qu'avez-vous appris sur vous-même cette semaine ?",
+            "category": "growth"
+        },
+        {
+            "text": "Si vous pouviez donner un conseil à votre vous d'il y a un an, quel serait-il ?",
+            "category": "reflection"
+        },
+        {
+            "text": "Quelle décision récente êtes-vous fier d'avoir prise ?",
+            "category": "reflection"
+        },
+        {
+            "text": "Comment avez-vous surmonté un obstacle récemment ?",
+            "category": "reflection"
+        },
+        {
+            "text": "Décrivez votre état d'esprit en ce moment avec cinq mots.",
+            "category": "mindfulness"
+        },
+        {
+            "text": "Qu'est-ce qui vous a aidé à rester calme face au stress récemment ?",
+            "category": "mindfulness"
+        },
+        {
+            "text": "Prenez un moment pour observer votre environnement. Qu'est-ce que vous remarquez ?",
+            "category": "mindfulness"
+        },
+        {
+            "text": "Quelle relation dans votre vie souhaiteriez-vous renforcer ?",
+            "category": "relationships"
+        },
+        {
+            "text": "Décrivez un acte de gentillesse que quelqu'un a eu envers vous récemment.",
+            "category": "relationships"
+        },
+        {
+            "text": "Comment pourriez-vous mieux montrer votre appréciation à vos proches ?",
+            "category": "relationships"
+        },
+        {
+            "text": "Quel est votre objectif principal pour cette semaine ?",
+            "category": "goals"
+        },
+        {
+            "text": "Quelle petite action pouvez-vous entreprendre aujourd'hui vers un grand rêve ?",
+            "category": "goals"
+        },
+        {
+            "text": "Où vous voyez-vous dans six mois et que faites-vous pour y arriver ?",
+            "category": "goals"
+        },
+        {
+            "text": "Quelle habitude positive aimeriez-vous cultiver ?",
+            "category": "growth"
+        },
+        {
+            "text": "Quel est le plus beau compliment que vous ayez reçu et pourquoi vous a-t-il touché ?",
+            "category": "gratitude"
+        }
+    ]
+}
